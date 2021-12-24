@@ -9,7 +9,7 @@ try{
             Write-Host "Please wait ..."
             Clear-Host
             Write-Host "Getting DNS(s) from Shecan.ir ..." -ForegroundColor Gray
-            $WebResponse = Invoke-WebRequest "https://shecan.ir" -ForegroundColor Gray
+            $WebResponse = Invoke-WebRequest "https://shecan.ir"
             $DnsElementList = $WebResponse.AllElements | Where {$_.Class -eq "shecan-dns-ips"}
             $DnsList = @()
             for ($Index = 1; $Index -le 2; $Index++)
