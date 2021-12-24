@@ -1,3 +1,5 @@
+![ShecanSet-Windows](https://github.com/miladashrafi/ShecanSet-Windows/blob/main/Images/banner.png?raw=true)
+
 # ShecanSet-Windows
 ##### A simple utility to automatically set/unset Shecan DNS(s).
 
