@@ -5,7 +5,7 @@
 
 - This tool will needs internet to get original Shecan DNS IPs from website: https://shecan.ir
 
-- Please run shortcuts or batch files as administrator.
+- Please run batch files as administrator.
 
 
 
