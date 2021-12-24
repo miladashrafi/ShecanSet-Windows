@@ -1,2 +1,14 @@
 # ShecanSet-Windows
-A utility to automatically set/unset Shecan.ir DNS(s) on windows
+##### A simple utility to automatically set/unset Shecan DNS(s).
+
+- This tool will needs internet to get original Shecan DNS IPs from website: https://shecan.ir
+
+- Please run shortcuts or batch files as administrator.
+
+
+
+-----------------------------------------
+
+By: Milad Ashrafi
+
+###### [https://miladashrafi.com](https://miladashrafi.com)
